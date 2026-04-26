@@ -4,7 +4,7 @@ public class HenMandelbaum
     {
         for (int i = 1; i <= 12; i++)
         {
-            System.out.println("This is Hen Mandelbaum speaking" + i);
+            System.out.println("def" + i);
         }
     }
 }
